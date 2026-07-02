@@ -1,0 +1,21 @@
+Project Code,Project Status,Task Name,Task Comment,Target Days to complete,Date Created,Start Date,Due Date,Completion Date,On time or Late,Days to completion,Days active (if not complete),Task Status
+DEMO-001,Open,Study setup initiated,Simulated record: sponsor information received and local setup clock started,0,2026-01-05,2026-01-05,2026-01-05,2026-01-05,On Time,0,,Complete
+DEMO-001,Open,Local information pack review,Simulated record: document pack required minor clarification,7,2026-01-06,2026-01-06,2026-01-13,2026-01-15,Late,9,,Complete
+DEMO-001,Open,Finance and costing confirmation,Simulated record: costing query awaiting response from study team,14,2026-01-10,2026-01-10,2026-01-24,,,42,Active
+DEMO-001,Open,Green light issued,Simulated record: site authorised to open to recruitment,60,2026-01-05,2026-01-05,2026-03-06,2026-03-12,Late,66,,Complete
+DEMO-001,Open,First patient recruited,Simulated record: first consent captured after green light,30,2026-03-12,2026-03-12,2026-04-11,2026-04-03,On Time,22,,Complete
+DEMO-002,In setup,Study setup initiated,Simulated record: non-sponsored study transferred for local setup,0,2026-02-03,2026-02-03,2026-02-03,2026-02-03,On Time,0,,Complete
+DEMO-002,In setup,Support department capacity confirmation,Simulated record: pharmacy capacity confirmation pending,10,2026-02-07,2026-02-07,2026-02-17,,,70,Active
+DEMO-002,In setup,Contract review,Simulated record: contract clauses under review,21,2026-02-10,2026-02-10,2026-03-03,2026-03-08,Late,26,,Complete
+DEMO-002,In setup,Green light issued,Simulated record: green light not yet issued in dummy dataset,60,2026-02-03,2026-02-03,2026-04-04,,,88,Active
+DEMO-003,Open to recruitment,Study setup initiated,Simulated record: local feasibility completed,0,2026-03-01,2026-03-01,2026-03-01,2026-03-01,On Time,0,,Complete
+DEMO-003,Open to recruitment,SIV / activation meeting,Simulated record: activation meeting completed on schedule,14,2026-03-04,2026-03-04,2026-03-18,2026-03-15,On Time,11,,Complete
+DEMO-003,Open to recruitment,Green light issued,Simulated record: site opened within 60-day target,60,2026-03-01,2026-03-01,2026-04-30,2026-04-12,On Time,42,,Complete
+DEMO-003,Open to recruitment,First patient recruited,Simulated record: recruitment delayed by screening availability,30,2026-04-12,2026-04-12,2026-05-12,2026-05-25,Late,43,,Complete
+DEMO-004,Closed,Study setup initiated,Simulated record: rapid setup pathway used,0,2026-04-02,2026-04-02,2026-04-02,2026-04-02,On Time,0,,Complete
+DEMO-004,Closed,Local R&D confirmation,Simulated record: governance confirmation completed quickly,7,2026-04-03,2026-04-03,2026-04-10,2026-04-08,On Time,5,,Complete
+DEMO-004,Closed,Green light issued,Simulated record: opened ahead of setup target,60,2026-04-02,2026-04-02,2026-06-01,2026-04-25,On Time,23,,Complete
+DEMO-004,Closed,First patient recruited,Simulated record: first patient recruited within target,30,2026-04-25,2026-04-25,2026-05-25,2026-05-02,On Time,7,,Complete
+DEMO-005,In setup,Study setup initiated,Simulated record: complex pathway with multiple dependencies,0,2026-05-10,2026-05-10,2026-05-10,2026-05-10,On Time,0,,Complete
+DEMO-005,In setup,Document pack completion,Simulated record: missing delegation log and training evidence,7,2026-05-12,2026-05-12,2026-05-19,,,35,Active
+DEMO-005,In setup,Hive / EHR access setup,Simulated record: user access request awaiting approval,10,2026-05-15,2026-05-15,2026-05-25,,,32,Active
